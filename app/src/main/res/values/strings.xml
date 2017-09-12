@@ -1,0 +1,19 @@
+<resources>
+    <string-array name="labs_array">
+        <item>LEC01</item>
+        <item>LEC02</item>
+        <item>LEC03</item>
+    </string-array>
+    <string name="app_name">Reserva de Sala</string>
+    <string name="teacher_name">Nome do Professor</string>
+    <string name="id_field">Identificador Numérico</string>
+    <string name="teacher_email">Email do Professor</string>
+    <string name="reservation_date">Data da Reserva</string>
+    <string name="reservation_time">Hora da Reserva</string>
+    <string name="select_lab">Selecione o Laboratório</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="usa_datashow">Usa Datashow?</string>
+    <string name="observacoes">Observações</string>
+    <string name="configs">Configurações Desejadas</string>
+</resources>
